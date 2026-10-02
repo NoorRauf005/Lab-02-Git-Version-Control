@@ -1,4 +1,4 @@
 Hello, Git!
 This is my Software Engineering Lab 02.
 I am learning Git and GitHub version control.
-Feature login development is being done on a separate branch.
+Main branch version of the login feature.
