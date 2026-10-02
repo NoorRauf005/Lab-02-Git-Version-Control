@@ -1,4 +1,6 @@
 Hello, Git!
 This is my Software Engineering Lab 02.
 I am learning Git and GitHub version control.
-Main branch version of the login feature.
+<<<<<<< HEAD
+>>>>>>> feature-login
+Login feature is being developed using Git branches.
